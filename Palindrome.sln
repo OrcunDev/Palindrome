@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.539
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome.csproj", "{E234E6BC-11F6-4057-AE16-E140C31C3C1E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW7", "HW7.csproj", "{E234E6BC-11F6-4057-AE16-E140C31C3C1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
